@@ -5,7 +5,7 @@
     <bpmn2:startEvent id="processStartEvent" drools:bgcolor="#9acd32" drools:selectable="true" name="">
       <bpmn2:outgoing>_DA914565-3791-43B2-9255-E69183C03B56</bpmn2:outgoing>
     </bpmn2:startEvent>
-    <bpmn2:userTask id="_E9336B50-F4C8-4F92-935D-7D3269329A3A" drools:selectable="true" drools:scriptFormat="http://www.java.com/java" name="PruebaRemoto">
+    <bpmn2:userTask id="_E9336B50-F4C8-4F92-935D-7D3269329A3A" drools:selectable="true" drools:scriptFormat="http://www.java.com/java" name="PruebaRemotoModifGitHub">
       <bpmn2:incoming>_DA914565-3791-43B2-9255-E69183C03B56</bpmn2:incoming>
       <bpmn2:outgoing>_605E0F8D-C79B-42FE-8190-6F347FFAE87D</bpmn2:outgoing>
       <bpmn2:ioSpecification id="_YAJjwblbEeWVbaWnIEYGUw">
